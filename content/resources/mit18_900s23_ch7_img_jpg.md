@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s23_ch7_img.jpg
+file_size: 141902
 file_type: image/jpeg
 image_metadata:
   caption: ''
