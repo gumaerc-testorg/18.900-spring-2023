@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s23_ch5_img.jpg
+file: courses/geometry-and-topology-in-the-plane/mit18_900s23_ch5_img.jpg
 file_size: 155694
 file_type: image/jpeg
 image_metadata:
