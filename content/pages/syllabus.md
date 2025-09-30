@@ -12,7 +12,7 @@ Lectures: 3 sessions / week, 50 minutes / session
 
 ## Prerequisites
 
-In MIT terms, the prerequisites are [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)*.* Linear algebra figures briefly in chapter III, and then plays a more substantial role in chapter VII. Differential equations (well, one of them) play an important role in chapter IX. Complex numbers are important in lecture 14 and in chapter VIII. On a more basic level, students are expected to be familiar with [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/).
+In MIT terms, the prerequisites are {{% resource_link "91fa0943-1dbb-4037-bb3c-8525ef7754ed" "*18.03 Differential Equations*" %}} or {{% resource_link "96f05cd7-cfa3-434f-b365-c7bf77dec27a" "*18.06 Linear Algebra*" %}}*.* Linear algebra figures briefly in chapter III, and then plays a more substantial role in chapter VII. Differential equations (well, one of them) play an important role in chapter IX. Complex numbers are important in lecture 14 and in chapter VIII. On a more basic level, students are expected to be familiar with {{% resource_link "e602e4f6-c9a5-4220-9c8c-60c6a06621be" "*18.02 Multivariable Calculus*" %}}.
 
 ## Course Description
 
